@@ -52,4 +52,4 @@ This Story will have the following **Tasks** and respective descriptions:
   - After approval, submit the PDF template change as PR to codebase
   - Estimate: 2 hours
 
-After all these tasks are done, codebase should be reading for certification by the Facilities.
+After all these tasks are done, codebase should be ready for certification by Facilities team.
